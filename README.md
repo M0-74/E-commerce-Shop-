@@ -1,1 +1,1 @@
-https://e-commerce-shop1-tau.vercel.app/
+https://e-commerce-shop02.vercel.app/
