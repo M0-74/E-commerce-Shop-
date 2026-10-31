@@ -1,7 +1,7 @@
 import React from 'react'
 import { useEffect } from 'react'
 import Hero from './components/hero/Hero'
-import Navbar from './components/navbar/NavBar'
+import Navbar from './components/navbar/Navbar'
 import Project from './components/projects/Project'
 import AOS from "aos";
 import "aos/dist/aos.css";
