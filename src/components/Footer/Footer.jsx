@@ -11,7 +11,7 @@ import {
 
 const BannerImg = {
     backgroundImage: `url(${Banner})`,
-    backgroundPosition: "bottom",
+    backgroundPosition: "bottom", 
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
     height: "100%",
