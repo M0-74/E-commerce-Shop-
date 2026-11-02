@@ -1,5 +1,5 @@
 import React from "react";
-import footerLogo from "../../assets/Logo.png";
+import footerLogo from "../../assets/logo.png";
 import Banner from "../../assets/website/footer-pattern.jpg";
 import {
     FaFacebook,
